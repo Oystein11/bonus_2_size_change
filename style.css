@@ -10,7 +10,12 @@ section {
     gap: 5em;
 }
 
-.img {
-    height: 500px;
-    width: 500px;
+.small_img {
+    height: 5em;
+    width: 5em;
+}
+
+.large_img {
+    height: 20em;
+    width: 20em;
 }
